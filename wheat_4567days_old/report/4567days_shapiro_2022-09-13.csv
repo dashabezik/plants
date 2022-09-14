@@ -1,0 +1,17 @@
+Date and time: 2022-09-13 08:45:15.793063
+Program settings and initial information: 
+path_to_file_folder_fixed = 4567days/4567days/
+paper_area = 6241mm2; paper_area_thresold = 8000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/10
+contour_area_threshold = 1000 pixels 
+template_filename = 4567days/4567days/template/template.JPG
+leaves parameters(0, 50, 0, 255, 94, 255)
+roots parameters(49, 255, 0, 255, 88, 255)
+seeds parameters(0, 23, 45, 255, 127, 255)
+blur parameters(9, 7, 0, 177)
+
+,roots_sum,roots_max,plant_area,leaves
+4day,0.3692619800567627,0.04427817091345787,9.346423030365258e-05,1.7074198999100787e-10
+5day,2.2944903321331367e-05,0.0015741378301754594,1.5969590927422672e-10,7.430399177887903e-12
+6day,0.17621734738349915,0.36070576310157776,0.00015519159205723554,0.0001812460832297802
+7day,0.0006949618691578507,4.252466533216648e-05,9.872665884813614e-08,1.1790789677945668e-08

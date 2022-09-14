@@ -1,0 +1,14 @@
+Date and time: 2022-09-14 08:43:24.877147
+Program settings and initial information: 
+path_to_file_folder_fixed = 120422/
+paper_area = 6241mm2; paper_area_thresold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/10
+contour_area_threshold = 1000 pixels 
+template_filename = 120422/template/template.jpg
+leaves parameters(0, 69, 0, 255, 134, 255)
+roots parameters(59, 255, 0, 255, 134, 255)
+seeds parameters(0, 29, 31, 255, 172, 255)
+blur parameters(7, 5, 0, 127)
+
+,1,2,3,4,5
+0,0.967032967032967,0.9761904761904762,0.9883720930232558,0.9878048780487805,0.9883720930232558
