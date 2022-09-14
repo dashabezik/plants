@@ -1,4 +1,4 @@
-Date and time: 2022-09-14 08:43:15.119854
+Date and time: 2022-09-14 12:44:13.165969
 Program settings and initial information: 
 path_to_file_folder_fixed = peas300622/
 paper_area = 6241mm2; paper_area_thresold = 10000pixels 
@@ -13,6 +13,6 @@ blur parameters(7, 3, 0, 118)
 test_type = Mann Whitney U-test
 
 ,0.0,0.0025,0.01
-0.0,1.0,,
-0.0025,1.0,1.0,
-0.01,3e-05,3e-05,1.0
+0.0,1.0,0.3353462183061596,0.004550713853276937
+0.0025,0.3353462183061596,1.0,2.1933951750399498e-05
+0.01,0.004550713853276937,2.1933951750399498e-05,1.0
