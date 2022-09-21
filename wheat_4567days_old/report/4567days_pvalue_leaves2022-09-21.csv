@@ -1,0 +1,19 @@
+Date and time: 2022-09-21 15:32:51.058995
+Program settings and initial information: 
+path_to_file_folder_fixed = 4567days/4567days/
+paper_area = 6241mm2; paper_area_thresold = 8000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/10
+contour_area_threshold = 1000 pixels 
+template_filename = 4567days/4567days/template/template.JPG
+leaves parameters(0, 43, 0, 255, 102, 255)
+roots parameters(54, 255, 0, 255, 118, 255)
+seeds parameters(0, 21, 88, 255, 179, 255)
+blur parameters(9, 7, 0, 179)
+
+test_type = Mann Whitney U-test
+
+,4day,5day,6day,7day
+4day,1.0,0.000601080785852089,2.440845533695564e-05,3.450057382589702e-07
+5day,0.000601080785852089,1.0,0.3735247818186085,0.036117685174595605
+6day,2.440845533695564e-05,0.3735247818186085,1.0,0.14588084861449893
+7day,3.450057382589702e-07,0.036117685174595605,0.14588084861449893,1.0

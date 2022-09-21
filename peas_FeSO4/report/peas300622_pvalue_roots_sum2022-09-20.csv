@@ -1,0 +1,18 @@
+Date and time: 2022-09-20 16:46:19.551494
+Program settings and initial information: 
+path_to_file_folder_fixed = peas300622/
+paper_area = 6241mm2; paper_area_thresold = 10000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/10
+contour_area_threshold = 1000 pixels 
+template_filename = peas300622/template/template.JPG
+leaves parameters(0, 50, 0, 255, 94, 255)
+roots parameters(61, 255, 0, 255, 94, 255)
+seeds parameters(0, 28, 111, 255, 132, 255)
+blur parameters(7, 3, 0, 118)
+
+test_type = Mann Whitney U-test
+
+,0.0,0.0025,0.01
+0.0,1.0,4.013757650919247e-05,1.4113926509542544e-14
+0.0025,4.013757650919247e-05,1.0,8.686018881468561e-05
+0.01,1.4113926509542544e-14,8.686018881468561e-05,1.0
