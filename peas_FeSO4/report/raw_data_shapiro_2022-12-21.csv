@@ -1,0 +1,16 @@
+Date and time: 2022-12-21 16:38:21.883667
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/plants/for_git/plants/peas_FeSO4/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 1000 pixels 
+template_filename = C:/Users/dasha/plants/for_git/plants/peas_FeSO4/raw_data/template/template.jpg
+leaves parameters[0, 50, 0, 255, 94, 255]
+roots parameters[61, 255, 0, 255, 94, 255]
+seeds parameters[0, 28, 111, 255, 132, 255]
+blur parameters[7, 3, 118]
+
+,roots_sum,roots_max,plant_area,leaves
+0.0,2.338458870987381e-10,1.1313835339508277e-13,6.595200119363653e-08,1.9047144503986368e-13
+0.0025,8.708977983218347e-12,2.1093549677124804e-14,9.666764834028683e-17,1.895931102440446e-23
+0.01,1.2197399377821645e-15,3.167744404053473e-16,2.0890553903506346e-17,6.78332579993543e-14

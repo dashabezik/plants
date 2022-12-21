@@ -1,0 +1,18 @@
+Date and time: 2022-12-21 16:38:21.883667
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/plants/for_git/plants/peas_FeSO4/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 1000 pixels 
+template_filename = C:/Users/dasha/plants/for_git/plants/peas_FeSO4/raw_data/template/template.jpg
+leaves parameters[0, 50, 0, 255, 94, 255]
+roots parameters[61, 255, 0, 255, 94, 255]
+seeds parameters[0, 28, 111, 255, 132, 255]
+blur parameters[7, 3, 118]
+
+test_type = Mann Whitney U-test
+
+,0.0,0.0025,0.01
+0.0,1.0,1.9535396974504896e-05,1.821335362170908e-17
+0.0025,1.9535396974504896e-05,1.0,1.1894134358669155e-07
+0.01,1.821335362170908e-17,1.1894134358669155e-07,1.0

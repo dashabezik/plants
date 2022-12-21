@@ -1,0 +1,20 @@
+Date and time: 2022-12-21 16:44:05.880708
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/plants/for_git/plants/wheat_fe_nanoparticles/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 1000 pixels 
+template_filename = C:/Users/dasha/plants/for_git/plants/wheat_fe_nanoparticles/raw_data/template/template.jpg
+leaves parameters[0, 71, 0, 255, 120, 255]
+roots parameters[51, 255, 0, 255, 134, 255]
+seeds parameters[0, 31, 35, 255, 156, 255]
+blur parameters[5, 3, 130]
+
+test_type = Mann Whitney U-test
+
+,1,2,3,4,5
+1,1.0,0.14328063646120617,0.27192928873645716,0.4772332504507494,0.19974619179175745
+2,0.14328063646120617,1.0,0.630466369081965,0.445506560623503,0.8359981000085015
+3,0.27192928873645716,0.630466369081965,1.0,0.6643561531285656,0.7512547754822677
+4,0.4772332504507494,0.445506560623503,0.6643561531285656,1.0,0.4093883685320393
+5,0.19974619179175745,0.8359981000085015,0.7512547754822677,0.4093883685320393,1.0
