@@ -1,6 +1,14 @@
 # Plants
 Raw photos and report files for automatic morphometry algorithm [Morley](https://github.com/dashabezik/Morley).
 
+
+## Experimental groups
+
+* [4-, 5-, 6- and 7-day seedlings of wheat](https://github.com/dashabezik/plants/tree/main/wheat_4567days_old). It is the group of untreated 4-, 5-, 6- and 7-day seedlings of Truticum Aestivum L. illustrating the difference between different days of growth.
+* [Peas seedlings treated by ferric sulfate](https://github.com/dashabezik/plants/tree/main/peas_FeSO4). This group shows the inhibition of peas growth induced by 19 h ferric sulfate treatments of the seeds. $FeSO_4$ concentrations: 0%, 0.0025%, 0.01%.
+* [Wheat treated with Fe nanoparticles](https://github.com/dashabezik/plants/tree/main/wheat_fe_nanoparticles). This group shows the difference in plant growth induced by NP Fe treatments of Truticum Aestivum L. seeds. Treatment groups: 1 - untreated, 2 - 10-4 % NP Fe in film-forming solution; 3 - 10-5 % NP Fe in film-forming solution; 4 - 10-6 % NP Fe in film-forming solution; 5 - film-forming solution.
+
+
 All the data were obtained with the following parameters:
 
 **Table 1**
