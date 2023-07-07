@@ -1,5 +1,5 @@
 # Plants
-Raw photos and report files for automatic morphometry algorithm [Morley](https://github.com/dashabezik/Morley).
+Raw photos examples of wheat and peas seedlings.
 
 
 ## Experimental groups
