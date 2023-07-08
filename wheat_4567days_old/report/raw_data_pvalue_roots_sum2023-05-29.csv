@@ -1,0 +1,19 @@
+Date and time: 2023-05-29 12:48:10.732279
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/ww/Desktop/лучшие результаты старая вер/wheat 4567/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 388.5 pixels 
+template_filename = C:/Users/ww/Desktop/лучшие результаты старая вер/wheat 4567/template.JPG
+leaves parameters[0, 113, 0, 255, 104, 255]
+roots parameters[52, 255, 0, 255, 118, 255]
+seeds parameters[0, 21, 88, 255, 179, 255]
+blur parameters[5, 5, 139]
+
+test_type = Mann Whitney U-test
+
+,4day,5day,6day,7day
+4day,1.0,0.004158455478448972,1.6672703508354005e-05,3.1373928328458624e-06
+5day,0.004158455478448972,1.0,0.005539523756818191,0.0019827621924286606
+6day,1.6672703508354005e-05,0.005539523756818191,1.0,0.5570375559268768
+7day,3.1373928328458624e-06,0.0019827621924286606,0.5570375559268768,1.0

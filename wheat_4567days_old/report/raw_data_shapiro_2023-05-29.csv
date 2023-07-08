@@ -1,0 +1,17 @@
+Date and time: 2023-05-29 12:48:10.732279
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/ww/Desktop/лучшие результаты старая вер/wheat 4567/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 388.5 pixels 
+template_filename = C:/Users/ww/Desktop/лучшие результаты старая вер/wheat 4567/template.JPG
+leaves parameters[0, 113, 0, 255, 104, 255]
+roots parameters[52, 255, 0, 255, 118, 255]
+seeds parameters[0, 21, 88, 255, 179, 255]
+blur parameters[5, 5, 139]
+
+,roots_sum,roots_max,plant_area,leaves
+4day,3.131313093475592e-15,1.0278899001397114e-16,3.388317581537599e-20,1.0514621740091674e-21
+5day,6.755199137842283e-07,1.1543576192707405e-06,5.201090516493423e-06,1.4267990955385557e-10
+6day,4.854797680309275e-06,1.9130614248297206e-07,9.783882433112012e-07,1.7369250482346388e-09
+7day,3.824261057161493e-06,1.9214432541048154e-05,3.595846180814988e-07,9.749078877518969e-09

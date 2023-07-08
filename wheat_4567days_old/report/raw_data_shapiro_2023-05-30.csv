@@ -1,0 +1,17 @@
+Date and time: 2023-05-30 16:10:03.780793
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/wheat 4567/raw_data
+paper_area = 6241mm2; paper_area_threshold = 1000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 344 pixels 
+template_filename = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/wheat 4567/template.JPG
+leaves parameters[0, 113, 0, 255, 105, 255]
+roots parameters[50, 255, 0, 255, 120, 255]
+seeds parameters[0, 20, 86, 255, 101, 255]
+blur parameters[5, 5, 139]
+
+,roots_sum,roots_max,plant_area,leaves
+4day,1.477882903162357e-17,4.604752342682645e-18,1.3454864267590142e-19,3.0276327778876965e-19
+5day,1.0176279818807643e-09,6.972084065637318e-06,5.217063062445959e-06,1.9878695911579314e-10
+6day,1.2644224940842702e-17,1.1785659441488188e-17,1.086096803829163e-19,5.387267610907753e-15
+7day,9.346871054174367e-19,1.709609135206355e-18,1.572003116664184e-20,2.443830932026732e-19
