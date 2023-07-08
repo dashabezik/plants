@@ -1,0 +1,18 @@
+Date and time: 2023-05-30 19:47:58.282092
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/pease 34567/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 2064 pixels 
+template_filename = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/pease 34567/template.JPG
+leaves parameters[0, 53, 0, 135, 94, 244]
+roots parameters[94, 255, 0, 255, 98, 255]
+seeds parameters[0, 26, 80, 255, 83, 255]
+blur parameters[11, 5, 71]
+
+,roots_sum,roots_max,plant_area,leaves
+3 day,5.532441773583793e-14,2.611508963723183e-14,2.819651854224503e-05,1.0406732629341932e-20
+4 day,4.3803327571367845e-05,5.297199095366523e-06,4.8219376408420445e-11,1.892699256542797e-17
+5 day,2.6259497190039838e-06,1.3789626791549381e-05,0.001715273130685091,2.4888452188065457e-08
+6 day,0.00012275841436348855,0.007843582890927792,0.058053333312273026,4.762022243198771e-08
+7 day,2.202513314841781e-06,0.0034598640631884336,1.623876814266234e-13,3.1803181173017947e-06

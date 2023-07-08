@@ -1,0 +1,20 @@
+Date and time: 2023-05-30 19:47:58.282092
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/pease 34567/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 2064 pixels 
+template_filename = C:/Users/dasha/Desktop/даша/lab/plants/morley датасеты/pease 34567/template.JPG
+leaves parameters[0, 53, 0, 135, 94, 244]
+roots parameters[94, 255, 0, 255, 98, 255]
+seeds parameters[0, 26, 80, 255, 83, 255]
+blur parameters[11, 5, 71]
+
+test_type = Mann Whitney U-test
+
+,3 day,4 day,5 day,6 day,7 day
+3 day,1.0,5.4624043735561915e-18,1.8663602880314782e-24,3.5377189935659833e-28,8.031922446358454e-31
+4 day,5.4624043735561915e-18,1.0,2.9585280218479846e-06,1.9064681687158595e-13,9.737021340062465e-16
+5 day,1.8663602880314782e-24,2.9585280218479846e-06,1.0,0.0006632257250347841,9.157892788180336e-06
+6 day,3.5377189935659833e-28,1.9064681687158595e-13,0.0006632257250347841,1.0,0.142481285903797
+7 day,8.031922446358454e-31,9.737021340062465e-16,9.157892788180336e-06,0.142481285903797,1.0
