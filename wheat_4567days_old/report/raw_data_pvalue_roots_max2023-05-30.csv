@@ -1,0 +1,19 @@
+Date and time: 2023-05-30 17:15:29.778698
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/plants/for_git/plants_modified/wheat_4567days_old/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 344 pixels 
+template_filename = C:/Users/dasha/plants/for_git/plants/wheat_4567days_old/raw_data/template/template.JPG
+leaves parameters[0, 113, 0, 255, 104, 255]
+roots parameters[52, 255, 0, 255, 118, 255]
+seeds parameters[0, 21, 88, 255, 150, 255]
+blur parameters[5, 5, 139]
+
+test_type = Mann Whitney U-test
+
+,4day,5day,6day,7day
+4day,1.0,0.04647097256735736,2.4336178765417805e-05,5.920866777013546e-05
+5day,0.04647097256735736,1.0,0.0003553419732050619,0.0019547739515785876
+6day,2.4336178765417805e-05,0.0003553419732050619,1.0,0.6754656619873698
+7day,5.920866777013546e-05,0.0019547739515785876,0.6754656619873698,1.0

@@ -1,0 +1,14 @@
+Date and time: 2023-05-30 17:15:29.778698
+Program settings and initial information: 
+path_to_file_folder_fixed = C:/Users/dasha/plants/for_git/plants_modified/wheat_4567days_old/raw_data
+paper_area = 6241mm2; paper_area_threshold = 5000pixels 
+paper threshold position = photo width/x_pos_divider = img.shape[0]/11
+contour_area_threshold = 344 pixels 
+template_filename = C:/Users/dasha/plants/for_git/plants/wheat_4567days_old/raw_data/template/template.JPG
+leaves parameters[0, 113, 0, 255, 104, 255]
+roots parameters[52, 255, 0, 255, 118, 255]
+seeds parameters[0, 21, 88, 255, 150, 255]
+blur parameters[5, 5, 139]
+
+,4day,5day,6day,7day
+0,0.688,0.8360655737704918,0.8220338983050848,0.8389830508474576
